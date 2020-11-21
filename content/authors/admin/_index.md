@@ -93,4 +93,4 @@ On a personal level, my hobbies include building mechanical keyboards, 3D printi
 [AST]: http://ast.berkeley.edu
 [scholar]: https://scholar.google.com/citations?user=NAOZe7gAAAAJ&hl=en
 [Louie]: http://louie.berkeley.edu
-[cats]: images/cats.jpg
+[cats]: files/cats.jpg
