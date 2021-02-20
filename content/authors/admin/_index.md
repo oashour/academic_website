@@ -23,7 +23,7 @@ bio: My research interests include XYZ.
 interests:
 - Excited State Phenomena in Quantum Materials
 - Computational Study of Topological Systems
-- Nonlinear Schrodinger Equations and their solutions
+- Nonlinear Schrodinger Equations and Classical Integrability
 
 education:
   courses:
