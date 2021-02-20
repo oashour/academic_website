@@ -21,7 +21,6 @@ organizations:
 bio: My research interests include XYZ.
 
 interests:
-- GW-BSE Calculations
 - Excited State Phenomena in Quantum Materials
 - Computational Study of Topological Systems
 - Nonlinear Schrodinger Equations and their solutions
@@ -81,16 +80,16 @@ I am a second year condensed matter theory student at UC Berkeley, working with 
 
 I earned my BS in electrical engineering from [Texas A&M University][TAMU] in 2017, with an emphasis in optics and a thesis in mathematical physics. At A&M, I studied integrable systems with professors [Siu Chin][Chin] and [Milivoj Belic][Belic], exploring the mathematical physics of the nonlinear Schrodinger hierarchy. I additionally pursued experimental and computational work at the [Rentzepis lab][Rentzepis] in ultrafast x-ray diffraction and biophysics.
 
+I am the developer of a Julia package for sovling nonlinear Schrodinger equations, known as [NonlinearSchrodinger.jl][package].
+
 For an up-to-date list of my publications, please check my [google scholar][scholar] profile.
 
-I am the developer of a Julia package for sovling Nonlinear Schrodinger equations, known as [NonlinearSchrodinger.jl][package].
-
-On a personal level, my hobbies include building mechanical keyboards, 3D printing and home automation. I live with my wife and 2 [cats][cats] in the SF Bay Area.
+On a personal level, my hobbies include building mechanical keyboards, 3D printing and home automation. I live with my wife and two [cats][cats] in the SF Bay Area.
 
 
 [TAMU]: https://engineering.tamu.edu/electrical
 [Belic]: https://www.qatar.tamu.edu/programs/science/faculty-and-staff/dr.-milivoj-belic
-[Chin]: http://people.physics.tamu.edu/chin/
+[Chin]: https://sites.google.com/view/siuchinsite/home
 [Rentzepis]: https://engineering.tamu.edu/electrical/people/rentzepis-peter
 [AST]: http://ast.berkeley.edu
 [scholar]: https://scholar.google.com/citations?user=NAOZe7gAAAAJ&hl=en
