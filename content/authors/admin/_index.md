@@ -22,7 +22,7 @@ bio: My research interests include XYZ.
 
 interests:
 - GW-BSE Calculations
-- Excited State Phenomena in Quantum Meterials
+- Excited State Phenomena in Quantum Materials
 - Computational Study of Topological Systems
 - Nonlinear Schrodinger Equations and their solutions
 
@@ -77,13 +77,15 @@ user_groups:
 - Visitors
 ---
 
-I am a second year condensed matter theory student at UC Berkeley, working with [Steven G. Louie][Louie]. My research interests include *ab initio* studies, particularly GW-BSE calculations, of various material systems. I am especially interested in topological systems and optical properties of TMDCs. Prior to joining the physics PhD program, I spent 2 years as a Berkeley Graduate Fellow exploring my interests in mathematical physics and both condensed matter theory and experiment, culminating in an MS in applied physics from the [AS&T][AST] program.
+I am a second year condensed matter theory student at UC Berkeley, working with [Steven G. Louie][Louie]. My research interests include *ab initio* studies, particularly GW-BSE calculations, of various material systems. I am particularly interested in topological systems and TMDCs. Prior to joining the physics PhD program, I spent 2 years as a Berkeley Graduate Fellow exploring my interests in mathematical physics and both condensed matter theory and experiment, culminating in an MS in applied physics from the [AS&T][AST] program.
 
-I earned my BS in electrical engineering from [Texas A&M University][TAMU] in 2017, with an emphasis in optics and a thesis in mathematical physics. At A&M, I studied integrable systems with professors [Siu Chin][Chin] and [Milivoj Belic][Belic], exploring periodic solutions of the nonlinear Schrodinger hierarchy. I additionally pursued experimental and computational work at the [Rentzepis lab][Rentzepis] in ultrafast x-ray diffraction.
+I earned my BS in electrical engineering from [Texas A&M University][TAMU] in 2017, with an emphasis in optics and a thesis in mathematical physics. At A&M, I studied integrable systems with professors [Siu Chin][Chin] and [Milivoj Belic][Belic], exploring the mathematical physics of the nonlinear Schrodinger hierarchy. I additionally pursued experimental and computational work at the [Rentzepis lab][Rentzepis] in ultrafast x-ray diffraction and biophysics.
 
-Some of my publications are listed below, but for an up-to-date list, please check my [google scholar][scholar] profile.
+For an up-to-date list of my publications, please check my [google scholar][scholar] profile.
 
-On a personal level, my hobbies include building mechanical keyboards, 3D printing and home automation. I live with my girlfriend and 2 [cats][cats] in the SF Bay Area.
+I am the developer of a Julia package for sovling Nonlinear Schrodinger equations, known as [NonlinearSchrodinger.jl][package].
+
+On a personal level, my hobbies include building mechanical keyboards, 3D printing and home automation. I live with my wife and 2 [cats][cats] in the SF Bay Area.
 
 
 [TAMU]: https://engineering.tamu.edu/electrical
@@ -94,3 +96,4 @@ On a personal level, my hobbies include building mechanical keyboards, 3D printi
 [scholar]: https://scholar.google.com/citations?user=NAOZe7gAAAAJ&hl=en
 [Louie]: http://louie.berkeley.edu
 [cats]: media/cats.jpg
+[package]: https://github.com/oashour/NonlinearSchrodinger.jl
