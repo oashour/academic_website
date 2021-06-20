@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Omar Ashour
+title: Omar A. Ashour
 
 # Username (this should match the folder name)
 authors:
@@ -14,15 +14,15 @@ role: Graduate Student Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: UC Berkeley
+- name: UC Berkeley and Lawrence Berkeley National Lab
   url: "https://physics.berkeley.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include XYZ.
 
 interests:
-- Excited State Phenomena in Quantum Materials
-- Computational Study of Topological Systems
+- Broad classes of topological insulators
+- Direct dark matter detection
 - Nonlinear Schrodinger Equations and Classical Integrability
 
 education:
