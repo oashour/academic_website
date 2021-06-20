@@ -15,6 +15,11 @@
   url = "files/cv.pdf"
   weight = 20
 
+[[main]]
+  name = "Notes"
+  url = "https://ashour.dev"
+  weight = 30
+
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
