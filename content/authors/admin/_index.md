@@ -89,7 +89,9 @@ I earned my BS in electrical engineering from Texas A&M University in 2017, with
 
 I am the developer of a Julia package for sovling nonlinear Schrodinger equations, known as [NonlinearSchrodinger.jl](https://github.com/oashour/NonlinearSchrodinger.jl).
 
-On a personal level, my hobbies include building mechanical keyboards, 3D printing and home automation. I live with my wife and [two cats](cats) in the SF Bay Area.
+On a personal level, my hobbies include building mechanical keyboards, 3D printing and home automation. I live with my wife and [two cats](cats) in the SF Bay Area. 
+
+I keep a website for my notes, academic and otherwise, which can be accessed [here](https://ashour.dev).
 
 [TAMU]: https://engineering.tamu.edu/electrical
 [Belic]: https://www.qatar.tamu.edu/programs/science/faculty-and-staff/dr.-milivoj-belic
