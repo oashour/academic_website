@@ -25,20 +25,21 @@ bio: My research interests include XYZ.
 interests:
 - Broad classes of topological insulators
 - Direct dark matter detection
-- Nonlinear Schrodinger Equations and Classical Integrability
+- Nonlinear Schrödinger equations
+- Classical integrability
 
 education:
   courses:
-  - course: PhD in Physics
+  - course: PhD, Physics
     institution: UC Berkeley
     year: 2024
-  - course: MA in Physics
+  - course: MA, Physics
     institution: UC Berkeley
     year: 2020
-  - course: MS in AS&T (Applied Physics)
+  - course: MS, AS&T (Applied Physics)
     institution: UC Berkeley
     year: 2019
-  - course: BS in Electrical Engineering (Optics)
+  - course: BS, Electrical Engineering (Optics)
     institution: Texas A&M University
     year: 2017
 
