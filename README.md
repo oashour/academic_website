@@ -1,3 +1,3 @@
 # Academic Website
 
-This is my academic website. It can be access [here](https://omarashour.com).
+This is my academic website. It can be accessed [here](https://omarashour.com).
