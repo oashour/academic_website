@@ -25,6 +25,7 @@ bio: My research interests include XYZ.
 interests:
 - Broad classes of topological insulators
 - Direct dark matter detection
+- Nanoscale pattern formation
 - Nonlinear Schrödinger equations
 - Classical integrability
 
@@ -82,15 +83,15 @@ user_groups:
 - Visitors
 ---
 
-I am a rising third-year condensed matter theory student at UC Berkeley, working with [Sinéad Griffin](https://sineadgriffin.com). My research interests include *ab initio* studies of topological systems. I am currently particularly interested in both time-reversal symmetric (TRS-TI) and antiferromagnetic topological insulators (AFTI), as well as topological sensors for dark matter detection. I have previously worked with [Steven G. Louie](https://louie.Berkeley.edu) on first-principles studies of TRS-TIs. 
+I am a third-year condensed matter theory student at UC Berkeley, working with [Sinéad Griffin](https://sineadgriffin.com) and [James Analtis](https://physics.berkeley.edu/people/faculty/james-analytis). My research interests include *ab initio* studies of topological systems. I am currently particularly interested in both time-reversal symmetric (TRS-TI) and antiferromagnetic topological insulators (AFTI), as well as topological sensors for dark matter detection. I have previously worked with [Steven G. Louie](https://louie.Berkeley.edu) on first-principles studies of TRS-TIs. Presently, I am additionally studying nanoscale Turing pattern formation. 
 
 Prior to joining the physics PhD program, I spent 2 years as a Berkeley Graduate Fellow exploring my interests in mathematical physics and both condensed matter theory and experiment, culminating in an MS in applied physics from the [AS&T program](http://ast.berkeley.edu).
 
 I earned my BS in electrical engineering from Texas A&M University in 2017, with an emphasis in optics and a [thesis](https://oaktrust.library.tamu.edu/handle/1969.1/188543) in mathematical physics. At A&M, I studied integrable systems with professors [Siu A. Chin](https://physics.tamu.edu/directory/siu-chin/) and [Milivoj R. Belić](https://physics.tamu.edu/directory/milivoj-belic/), exploring the mathematical physics of the nonlinear Schrödinger hierarchy. I additionally pursued experimental and computational work at the [Rentzepis](https://engineering.tamu.edu/electrical/profiles/rentzepis-peter.html) lab in ultrafast x-ray diffraction and biophysics.
 
-I am the developer of a Julia package for sovling nonlinear Schrodinger equations, known as [NonlinearSchrodinger.jl](https://github.com/oashour/NonlinearSchrodinger.jl).
+I am the developer of a Julia package for sovling nonlinear Schrödinger equations, known as [NonlinearSchrodinger.jl](https://github.com/oashour/NonlinearSchrodinger.jl).
 
-On a personal level, my hobbies include building mechanical keyboards, 3D printing and home automation. I live with my wife and [two cats](media/cats.jpg) in the SF Bay Area. 
+On a personal level, my hobbies include building mechanical keyboards, 3D printing and home automation. I live with my wife, two cats ([1](media/cat1.jpeg), [2](media/cat2.JPG)) and [puppy](media/puppy.jpeg) in the SF Bay Area. 
 
 I keep a website for my notes, academic and otherwise, which can be accessed [here](https://ashour.dev).
 
