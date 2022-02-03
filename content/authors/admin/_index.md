@@ -83,7 +83,7 @@ user_groups:
 - Visitors
 ---
 
-I am a third-year condensed matter theory student at UC Berkeley, working with [Sinéad Griffin](https://sineadgriffin.com) and [James Analtis](https://physics.berkeley.edu/people/faculty/james-analytis). My research interests include *ab initio* studies of topological systems. I am currently particularly interested in both time-reversal symmetric (TRS-TI) and antiferromagnetic topological insulators (AFTI), as well as topological sensors for dark matter detection. I have previously worked with [Steven G. Louie](https://louie.Berkeley.edu) on first-principles studies of TRS-TIs. Presently, I am additionally studying nanoscale Turing pattern formation. 
+I am a third-year condensed matter theory student at UC Berkeley, working with [Sinéad Griffin](https://sineadgriffin.com) and [James Analytis](https://physics.berkeley.edu/people/faculty/james-analytis). My research interests include *ab initio* studies of topological systems. I am currently particularly interested in both time-reversal symmetric (TRS-TI) and antiferromagnetic topological insulators (AFTI), as well as topological sensors for dark matter detection. I have previously worked with [Steven G. Louie](https://louie.Berkeley.edu) on first-principles studies of TRS-TIs. Presently, I am additionally studying nanoscale Turing pattern formation. 
 
 Prior to joining the physics PhD program, I spent 2 years as a Berkeley Graduate Fellow exploring my interests in mathematical physics and both condensed matter theory and experiment, culminating in an MS in applied physics from the [AS&T program](http://ast.berkeley.edu).
 
