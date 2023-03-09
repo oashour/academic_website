@@ -90,13 +90,3 @@ I am the developer of a Julia package for sovling nonlinear Schrödinger equatio
 On a personal level, my hobbies include building mechanical keyboards, reading, and computer RPGs. I live with my wife, two cats and dog in the SF Bay Area. 
 
 I keep a website for my notes, academic and otherwise, which can be accessed [here](https://ashour.dev).
-
-[TAMU]: https://engineering.tamu.edu/electrical
-[Belic]: https://www.qatar.tamu.edu/programs/science/faculty-and-staff/dr.-milivoj-belic
-[Chin]: https://sites.google.com/view/siuchinsite/home
-[Rentzepis]: https://engineering.tamu.edu/electrical/people/rentzepis-peter
-[AST]: http://ast.berkeley.edu
-[scholar]: https://scholar.google.com/citations?user=NAOZe7gAAAAJ&hl=en
-[Louie]: http://louie.berkeley.edu
-[cats]: media/cats.jpg
-[package]: https://github.com/oashour/NonlinearSchrodinger.jl
