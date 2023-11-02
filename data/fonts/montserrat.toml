@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Montserrat"
+
+# Optional Google font URL
+google_fonts = "family=Montserrat:ital,wght@0,400;0,600;1,400;1,600&family=Roboto+Mono"
+
+# Font families 
+heading_font = "Montserrat"
+body_font = "Montserrat"
+nav_font = "Montserrat"
+mono_font = "Roboto Mono"

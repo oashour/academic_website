@@ -1,0 +1,17 @@
+# Theme metadata
+# This stuff is broken, they transitioned to a different theme system or something?
+name = "Custom Theme"
+
+[light]
+  # Primary
+  primary = "rgb(0,68,136)"
+
+  # Menu
+  menu_primary = "rgb(153,238,255)"
+  menu_text = "#000000"
+  menu_text_active = "#0072ff"
+  menu_title = "#ff0000"
+
+# Home sections
+# home_section_odd = "rgb(10, 10, 10)"
+# home_section_even = "rgb(10, 10, 10)"
