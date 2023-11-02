@@ -29,10 +29,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include XYZ.
 
-interests:
-- Phonons in topological systems
-- Direct dark matter detection
-- Classical integrability
+#interests:
+#- DM-Phonon interaction
+#- Confined magnons in topological thin films
+#- Classical integrability
 
 education:
   courses:
@@ -106,23 +106,23 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=NAOZe7gAAAAJ&hl=en
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://linkedin.com/in/oashour
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a fourth-year condensed matter theory PhD student at UC Berkeley, working with [Sinéad Griffin](https://sineadgriffin.com) at LBL. I am primarily interested in harnessing the interplay between topology and phonons in quantum materials for quantum sensing. I am generally method-agnostic, but I often use *ab initio* approaches such as density functional theory and GW calculations to study a variety of topological systems and their electronic and phononic properties. Recently, I have been studying higher-order topological insulators, and strain- and phonon-driven topological phase transitions, for applications in dark matter detection.
+I am a fifth-year physics PhD student at UC Berkeley, working with [Sinéad Griffin](https://sineadgriffin.com) at LBL. My research lies at the interface between condensed matter theory and quantum sensing. I am primarily interested in harnessing the interplay between collective excitations, such as phonons and magnons, and topological order in quantum materials, and I often use the burgeoning field of light dark matter detection as a testbed for my ideas.
 
-Prior to joining the physics PhD program, I spent 2 years as a Berkeley Graduate Fellow and earned my MS in applied physics from the [AS&T program](http://ast.berkeley.edu) in 2019. I earned my BS from Texas A&M University in 2017, where I worked on classical integrable systems, particularly nonlinear Schödinger equations. 
+I am generally method-agnostic, but my work often employs *ab initio* and analytical approaches such as density functional (perturbation) theory, many-body perturbation theory, and tight-binding models to study a variety of quantum materials and their electronic, magnetic, and phononic properties. Recently, I have been studying phonons in higher-order topological insulators and mirror Chern insulators, magnons in antiferromagnetic topological insulators, and modeling the spin ice state in pyrochlores from first principles.
 
-I keep a website for my notes, academic and otherwise, which can be accessed [here](https://ashour.dev).
+I completed my BS at Texas A&M University in 2017, and then spent two years as a Berkeley Graduate Fellow, earning my MS in applied physics from the [AS&T program](http://ast.berkeley.edu) in 2019. My research during that period heavily focused on the classical integrability of the nonlinear Schrödinger hierarchy.
 
-On a personal level, my hobbies include building mechanical keyboards, reading, and computer RPGs. I live with my wife, dog, and two cats in the SF Bay Area. 
+I maintain a [separate website](https://ashour.dev) for my notes on various academic and non-academic topics. On a personal level, my hobbies include building mechanical keyboards, reading, and breaking computer RPGs by being too optimal. I live with my wife, dog, and two cats in the SF Bay Area. 
