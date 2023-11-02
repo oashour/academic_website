@@ -1,9 +1,14 @@
+# Stuff
+.DS_Store
+
 # IDEs
 .idea/
+.vscode/
 
 # Hugo
-/resources/
+resources/
 public/
-
-# Other
-.DS_Store
+jsconfig.json
+node_modules/
+go.sum
+.hugo_build.lock
