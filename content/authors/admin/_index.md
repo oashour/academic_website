@@ -6,7 +6,7 @@ title: Omar A. Ashour
 #name_pronunciation: Omar A. Ashour
 
 # Full name (for SEO)
-first_name: Omar
+first_name: Omar A.
 last_name: Ashour
 
 # Status emoji
@@ -27,7 +27,7 @@ organizations:
   url: "https://foundry.lbl.gov/about/facilities/theory-of-nanostructured-materials/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include XYZ.
+bio: My research interests include DM detection.
 
 #interests:
 #- DM-Phonon interaction
@@ -119,10 +119,8 @@ social:
 highlight_name: true
 ---
 
-I am a fifth-year physics PhD student at UC Berkeley, working with [Sinéad Griffin](https://sineadgriffin.com) at LBL. My research lies at the interface between condensed matter theory and quantum sensing. I am primarily interested in harnessing the interplay between collective excitations, such as phonons and magnons, and topological order in quantum materials, and I often use the burgeoning field of light dark matter detection as a testbed for my ideas.
+I am a fifth-year physics PhD student at UC Berkeley, working with [Sinéad Griffin](https://sineadgriffin.com) at LBL. My research lies at the interface between condensed matter theory and quantum sensing, [see below for an overview](#research).  
 
-I am generally method-agnostic, but my work often employs *ab initio* and analytical approaches such as density functional (perturbation) theory, many-body perturbation theory, and tight-binding models to study a variety of quantum materials and their electronic, magnetic, and phononic properties. Recently, I have been studying phonons in higher-order topological insulators and mirror Chern insulators, magnons in antiferromagnetic topological insulators, and modeling the spin ice state in pyrochlores from first principles.
-
-I completed my BS at Texas A&M University in 2017, and then spent two years as a Berkeley Graduate Fellow, earning my MS in applied physics from the [AS&T program](http://ast.berkeley.edu) in 2019. My research during that period heavily focused on the classical integrability of the nonlinear Schrödinger hierarchy.
+I completed my BS at Texas A&M University in 2017, followed by two years as a Berkeley Graduate Fellow, earning my MS in applied physics from the [AS&T program](http://ast.berkeley.edu) in 2019. My research during that period heavily focused on the classical integrability of the nonlinear Schrödinger hierarchy.
 
 I maintain a [separate website](https://ashour.dev) for my notes on various academic and non-academic topics. On a personal level, my hobbies include building mechanical keyboards, reading, and breaking computer RPGs by being too optimal. I live with my wife, dog, and two cats in the SF Bay Area. 

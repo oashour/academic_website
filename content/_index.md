@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Bio'
+title: ''
 date: 2023-11-1
 type: landing
 
@@ -8,9 +8,32 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: markdown
+    id: research
+    content:
+      title: Research Overview
+      subtitle: Dark Matter and Collective Excitations
+      text: "Despite sustained efforts, direct detection of dark matter remains elusive. Propelled by cutting-edge advances in detector sensitivity and innovative proposals employing quantum materials, the search for dark matter has recently expanded to lower masses, encompassing well-motivated theories for light and ultralight candidates. However, detecting these low-mass candidates remains a formidable challenge, requiring target materials that exhibit measurable responses with just a few meV of energy deposition from dark matter scattering or absorption.
+
+
+      This burgeoning realm of quantum sensing exploits exotic phenomena in quantum materials, such as topological order, strong correlations, and magnetic spin textures as new pathways to low-threshold sensors. Such sensors go beyond next-generation dark matter detectors, with applications in quantum information science and future quantum technologies.
+
+
+      I am interested in harnessing the interplay between topological order and collective excitations, primarily phonons and magnons, to develop new quantum sensing schemes. Such excitations can break symmetries that protect the gapless boundary states in topological insulators, thus leading to a metal-insulator transition at the boundary, which could then be detected. My work employs various analytical and computational tools, such as density functional (perturbation) theory, many-body perturbation theory, and tight binding models, to elucidate the electronic, magnetic, and excited-state properties of various quantum materials. Additionally, I often utilize models from high-energy physics to study dark matter interaction with such materials.
+
+
+      Current and recent projects include:
+
+
+      * Studies of phonons in higher-order topological insulators and mirror Chern insulators.
+
+      * Confined magnons in antiferromagnetic topological insulators.
+
+      * Modeling the spin ice state in pyrochlores from first principles."
+
   #- block: experience
   #  content:
   #    title: Experience
