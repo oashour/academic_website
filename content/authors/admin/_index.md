@@ -121,6 +121,6 @@ highlight_name: true
 
 I am a fifth-year physics PhD student at UC Berkeley, working with [Sinéad Griffin](https://sineadgriffin.com) at LBL. My research lies at the interface between condensed matter theory and quantum sensing, [see below for an overview](#research). 
 
-I completed my BS at Texas A&M University in 2017, followed by two years as a Berkeley Graduate Fellow, earning my MS in applied physics from the [AS&T program](http://ast.berkeley.edu) in 2019. My research during that period heavily focused on the classical integrability of the nonlinear Schrödinger hierarchy.
+I completed my BS at Texas A&M University in 2017, followed by two years as a Berkeley Graduate Fellow, earning my MS in applied physics from the AS&T program in 2019. My research during that period heavily focused on the classical integrability of the nonlinear Schrödinger hierarchy.
 
 I maintain a [separate website](https://ashour.dev) for my notes on various academic and non-academic topics. On a personal level, my hobbies include building mechanical keyboards, reading, and breaking computer RPGs by being too optimal. I live with my wife, dog, and two cats in the SF Bay Area. 
