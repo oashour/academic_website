@@ -108,7 +108,7 @@ social:
   link: https://scholar.google.com/citations?user=NAOZe7gAAAAJ&hl=en
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/OmarAshour_Berkeley_CV.pdf
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://linkedin.com/in/oashour

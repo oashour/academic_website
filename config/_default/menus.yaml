@@ -11,10 +11,12 @@ main:
     url: '#research'
     weight: 20
   - name: CV
-    url: 'files/cv.pdf'
+    url: 'files/OmarAshour_Berkeley_CV.pdf'
     weight: 30
-  - name: Resume
-    url: 'files/resume.pdf'
+  - name: Academic Resume
+    url: 'files/OmarAshour_Berkeley_AcademicResume.pdf'
+  - name: Industry Resume
+    url: 'files/OmarAshour_Berkeley_IndustryResume.pdf'
     weight: 40
   - name: Notes
     url: 'https://ashour.dev'
