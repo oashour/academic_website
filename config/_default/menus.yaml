@@ -13,11 +13,17 @@ main:
   - name: CV
     url: 'files/OmarAshour_Berkeley_CV.pdf'
     weight: 30
-  - name: Academic Resume
-    url: 'files/OmarAshour_Berkeley_AcademicResume.pdf'
-  - name: Industry Resume
-    url: 'files/OmarAshour_Berkeley_IndustryResume.pdf'
+  - name: Resume
+    identifier: resume
     weight: 40
+  - name: Academic
+    parent: resume
+    url: 'files/OmarAshour_Berkeley_AcademicResume.pdf'
+    weight: 1
+  - name: Industry
+    parent: resume
+    url: 'files/OmarAshour_Berkeley_IndustryResume.pdf'
+    weight: 2
   - name: Notes
     url: 'https://ashour.dev'
     weight: 50
