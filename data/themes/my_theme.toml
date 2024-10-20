@@ -1,0 +1,31 @@
+# Theme metadata
+# This stuff is broken, they transitioned to a different theme system or something?
+name = "Custom Theme"
+
+[light]
+  # Primary
+  primary = "#002676"
+
+  # Menu
+  menu_primary = "#002676"
+  menu_text = "#FFC31B"
+  menu_text_active = "#FC9313"
+  menu_title = "#FDB515"
+
+  # Home sections
+  home_section_odd = "#FCFCFC"
+  home_section_even = "#FFFFFF"
+
+[dark]
+  # Primary
+  primary = "#FDB515"
+
+  # Menu
+  menu_primary = "#002676"
+  menu_text = "#FFC31B"
+  menu_text_active = "#FC9313"
+  menu_title = "#FDB515"
+
+  # Home sections
+  home_section_odd = "#0D1117"
+  home_section_even = "#151B23"
