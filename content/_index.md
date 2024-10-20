@@ -8,32 +8,9 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: About Me
+      title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: markdown
-    id: research
-    content:
-      title: Research Overview
-      subtitle: Dark Matter and Collective Excitations
-      text: "Despite sustained efforts, direct detection of dark matter remains elusive. Propelled by cutting-edge advances in detector sensitivity and innovative proposals employing quantum materials, the search for dark matter has recently expanded to lower masses, encompassing well-motivated theories for light and ultralight candidates. However, detecting these low-mass candidates remains a formidable challenge, requiring target materials that exhibit measurable responses with just a few meV of energy deposition from dark matter scattering or absorption.
-
-
-      This burgeoning realm of quantum sensing exploits exotic phenomena in quantum materials, such as topological order, strong correlations, and magnetic spin textures as new pathways to low-threshold sensors. Such sensors go beyond next-generation dark matter detectors, with applications in quantum information science and future quantum technologies.
-
-
-      I am interested in harnessing the interplay between topological order and collective excitations, primarily phonons and magnons, to develop new quantum sensing schemes. Such excitations can break symmetries that protect the gapless boundary states in topological insulators, thus leading to a metal-insulator transition at the boundary, which could then be detected. My work employs various analytical and computational tools, such as density functional (perturbation) theory, many-body perturbation theory, and tight binding models, to elucidate the electronic, magnetic, and excited-state properties of various quantum materials. Additionally, I often utilize models from high-energy physics to study dark matter interaction with such materials.
-
-
-      Current and recent projects include:
-
-
-      * Studies of phonons in higher-order topological insulators and mirror Chern insulators.
-
-      * Confined magnons in antiferromagnetic topological insulators.
-
-      * Modeling the spin ice state in pyrochlores from first principles."
-
   #- block: experience
   #  content:
   #    title: Experience
@@ -138,27 +115,32 @@ sections:
   #    # Choose a layout view
   #    view: compact
   #    columns: '2'
-  #- block: portfolio
-  #  id: projects
-  #  content:
-  #    title: Projects
-  #    filters:
-  #      folders:
-  #        - project
-  #    # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  #    default_button_index: 0
-  #    # Filter toolbar (optional).
-  #    # Add or remove as many filters (`filter_button` instances) as you like.
-  #    # To show all items, set `tag` to "*".
-  #    # To filter by a specific tag, set `tag` to an existing tag name.
-  #    # To remove the toolbar, delete the entire `filter_button` block.
-  #    buttons:
-  #      - name: All
-  #        tag: '*'
-  #      - name: Deep Learning
-  #        tag: Deep Learning
-  #      - name: Other
-  #        tag: Demo
+  - block: portfolio
+    id: research
+    content:
+      title: Research Interests
+      filters:
+        folders:
+          - research
+      sort_by: 'Date'
+    design:
+      columns: '2'
+      view: showcase
+      flip_alt_rows: false
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      #default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      #buttons:
+      #  - name: All
+      #    tag: '*'
+      #  - name: Deep Learning
+      #    tag: Deep Learning
+      #  - name: Other
+      #    tag: Demo
   #  design:
   #    # Choose how many columns the section has. Valid values: '1' or '2'.
   #    columns: '1'
@@ -173,17 +155,21 @@ sections:
   #      {{< gallery album="demo" >}}
   #  design:
   #    columns: '1'
-  #- block: collection
-  #  id: featured
-  #  content:
-  #    title: Featured Publications
-  #    filters:
-  #      folders:
-  #        - publication
-  #      featured_only: true
-  #  design:
-  #    columns: '2'
-  #    view: card
+  - block: collection
+    id: publications
+    content:
+      title: Highlighted Publications
+      text: |-
+        {{% callout note %}}
+        See my [Google Scholar](https://scholar.google.com/citations?user=NAOZe7gAAAAJ&hl=en) for a complete and updated list of publications.
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: 3
   #- block: collection
   #  content:
   #    title: Recent Publications
