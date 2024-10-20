@@ -38,7 +38,7 @@ education:
   courses:
   - course: PhD, Physics
     institution: UC Berkeley
-    year: 2025
+    year: May 2025
   - course: MA, Physics
     institution: UC Berkeley
     year: 2020
@@ -119,8 +119,8 @@ social:
 highlight_name: true
 ---
 
-I am currently in my sixth and final year as a physics PhD student at UC Berkeley, working with [Sinéad Griffin](https://sineadgriffin.com) at Berkeley Lab. My doctoral research primarily sits at the intersection of computational condensed matter physics, high-energy physics, and quantum sensing, [see below for an overview](#research). I am currently interested in developing hybrid quantum algorithms for materials physics, specifically with a focus on studying defects. In 2024, I interned with the quantum computing group at NERSC, where I worked on hybrid quantum algorithms for chemical systems.
+I am currently in my sixth and final year as a physics PhD student at UC Berkeley, working with [Sinéad Griffin](https://sineadgriffin.com) at Berkeley Lab. My research primarily lies at the interface of condensed matter physics, high-energy physics, and quantum sensing, [see below for an overview](#research). I am currently interested in the development of robust, scalable quantum algorithms for studying quantum materials and strongly correlated systems. 
 
-I completed my BS at Texas A&M University in 2017, followed by two years as a Berkeley Graduate Fellow, earning my MS in applied physics from the AS&T program in 2019. During this period, I worked primarily in nonlinear dynamics, with my research centered on the classically integrable nonlinear Schrödinger hierarchy. I derived new analytical approaches for computing higher-order analytical solutions, and developed numerical algorithms for exploring several experimentally-relevant systems.
+I completed my BS at Texas A&M University in 2017, followed by two years as a Berkeley Graduate Fellow, earning my MS in applied physics from the AS&T program in 2019. During this period, I worked primarily in nonlinear dynamics, focusing on classically integrable systems. 
 
-I maintain a [separate website](https://ashour.dev) for my notes on various academic and non-academic topics. On a personal level, my hobbies include building mechanical keyboards, reading, and breaking computer RPGs by being too optimal. I live with my wife, dog, and two cats in the SF Bay Area. 
+I maintain a [separate website](https://ashour.dev) for my notes on various academic and research topics. On a personal level, my hobbies include building mechanical keyboards, reading, and breaking computer RPGs by being too optimal. I live with my wife, dog, and two cats in the SF Bay Area. 
