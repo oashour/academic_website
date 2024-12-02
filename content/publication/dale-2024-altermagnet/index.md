@@ -1,5 +1,5 @@
 ---
-title: Directly probing g-wave altermagnetism below and above the Fermi level
+title: Non-relativistic spin splitting above and below the Fermi level in a *g*-wave altermagnet
 authors:
 - Nicholas Dale
 - admin
@@ -13,9 +13,12 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: '2024-01-01'
+date: '2024-11-27'
 publishDate: '2024-10-20T09:59:58.362419Z'
-publication_types:
-- in-preparation
-publication: '*In Preparation*'
+publication_types: ["preprint"]
+featured: true
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2411.18761
+publication: '*arXiv*'
 ---
