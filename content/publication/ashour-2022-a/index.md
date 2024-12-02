@@ -12,11 +12,11 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: '2022-01-01'
+date: '2022-02-17'
 publishDate: '2024-10-20T09:59:44.137428Z'
 publication_types:
 - article-journal
 publication: '*Physical Review B*'
 doi: 10.1103/PhysRevB.105.L081409
-featured: true
+featured: false
 ---
