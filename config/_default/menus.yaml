@@ -14,11 +14,13 @@ main:
     url: '#publications'
     weight: 30
   - name: CV
+    identifier: cv
     url: 'files/OmarAshour_Berkeley_CV.pdf'
     weight: 40
-  #- name: Resume
-  #  identifier: resume
-  #  weight: 40
+  - name: Résumé
+    identifier: resume
+    weight: 40
+    url: 'files/OmarAshour_Berkeley_Resume.pdf'
   #- name: Academic
   #  parent: resume
   #  url: 'files/OmarAshour_Berkeley_AcademicResume.pdf'
@@ -27,7 +29,7 @@ main:
   #  parent: resume
   #  url: 'files/OmarAshour_Berkeley_IndustryResume.pdf'
   #  weight: 2
-  - name: Notes
+  - name: Digital Garden
     url: 'https://ashour.dev'
     weight: 50
 

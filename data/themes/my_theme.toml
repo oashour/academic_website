@@ -2,30 +2,29 @@
 # This stuff is broken, they transitioned to a different theme system or something?
 name = "Custom Theme"
 
+# ----------------------------------
+# More Earthy Theme
 [light]
   # Primary
-  primary = "#002676"
-
+  primary = "#465446"  # Deep green (matches your CV color1)
   # Menu
-  menu_primary = "#002676"
-  menu_text = "#FFC31B"
-  menu_text_active = "#FC9313"
-  menu_title = "#FDB515"
-
+  menu_primary = "#465446"  # Deep green background
+  menu_text = "#E8E6E0"  # Warm off-white for readability
+  menu_text_active = "#F5C9B8"  # Soft peachy-tan (lightened burnt red)
+  menu_title = "#FEFEFD"  # Pure white-ish for your name
   # Home sections
-  home_section_odd = "#FCFCFC"
-  home_section_even = "#FFFFFF"
+  home_section_odd = "#FEFEFD"  # Matches your CV background
+  home_section_even = "#F8F8F6"  # Slightly warmer/darker for subtle alternation
 
 [dark]
   # Primary
-  primary = "#FDB515"
-
+  primary = "#7A9B7A"  # Lighter sage green for dark mode visibility
   # Menu
-  menu_primary = "#002676"
-  menu_text = "#FFC31B"
-  menu_text_active = "#FC9313"
-  menu_title = "#FDB515"
-
+  menu_primary = "#2A3329"  # Very dark forest green
+  menu_text = "#B8B09A"  # Warm sandy beige for readability
+  menu_text_active = "#C17A66"  # Lighter burnt terracotta for contrast
+  menu_title = "#8FA88F"  # Muted sage for hierarchy
   # Home sections
-  home_section_odd = "#0D1117"
-  home_section_even = "#151B23"
+  home_section_odd = "#1A1F1A"  # Deep charcoal with green undertone
+  home_section_even = "#232823"  # Slightly lighter dark green-gray
+# ----------------------------------

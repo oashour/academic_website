@@ -17,17 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student Researcher
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: UC Berkeley
-  url: "https://physics.berkeley.edu/"
 - name: Lawrence Berkeley National Lab
-  url: "https://foundry.lbl.gov/about/facilities/theory-of-nanostructured-materials/"
+  url: "https://lbl.gov/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include DM detection.
+bio: ...
 
 #interests:
 #- DM-Phonon interaction
@@ -38,7 +36,7 @@ education:
   courses:
   - course: PhD, Physics
     institution: UC Berkeley
-    year: May 2025
+    year: 2025
   - course: MA, Physics
     institution: UC Berkeley
     year: 2020
@@ -119,8 +117,8 @@ social:
 highlight_name: true
 ---
 
-I am a sixth year PhD student in physics at UC Berkeley, working with [Sinéad Griffin](https://sineadgriffin.com) at Berkeley Lab. My research primarily lies at the interface of condensed matter physics, high-energy particle physics, and quantum sensing, but my interests are broad and extend to areas like nonlinear physics and quantum algorithms. See below for an overview of my [research](#research) and [publications](#publications).
+I am a theoretical physicist at Lawrence Berkeley National Lab, working at the intersection of deep learning, statistical mechanics, and mathematical physics. My research focuses on two areas: developing analytical tools for mechanistic interpretability—understanding how neural networks internally represent and process information—and building physically interpretable generative models for scientific applications, particularly for amorphous materials and protein and RNA folding
 
-Before joining Berkeley Physics, I earned my BS from Texas A\&M university in 2017 and then served as a Berkeley Graduate Fellow, completing my MS in Applied Physics in 2019. During this time, I mainly worked on problems in nonlinear dynamics, particularly classically integrable systems. 
+I completed my PhD in physics at UC Berkeley in 2025, where I developed new approaches to dark matter detection from a condensed matter perspective. My previous research has spanned condensed matter and materials physics, nonlinear dynamics and PDEs, and quantum algorithms. See below for an overview of my [research](#research) and [publications](#publications). 
 
-I maintain a [separate website](https://ashour.dev) for my pedagogical and research notes. On a personal level, my hobbies include building mechanical keyboards and finishing every side quest in RPGs then quitting before ever starting the main story. I live with my wife, dog, and two cats in the SF Bay Area. 
+On a personal level, I enjoy building mechanical keyboards and reading. I live with my wife, dog, and two cats in the SF Bay Area. 
