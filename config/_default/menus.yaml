@@ -30,7 +30,7 @@ main:
   #  url: 'files/OmarAshour_Berkeley_IndustryResume.pdf'
   #  weight: 2
   - name: Digital Garden
-    url: 'https://ashour.dev'
+    url: 'https://notes.ashour.dev'
     weight: 50
 
   #- name: Posts
